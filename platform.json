@@ -47,8 +47,7 @@
     "framework-arduinoteensy": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.155.0"
+      "version": "https://github.com/KK1423/cores.git"
     },
     "framework-mbed": {
       "type": "framework",
